@@ -41,6 +41,10 @@
         {
           "version": "1.14.0",
           "update_link": "https://nlhma.github.io/domain-container-manager-releases/12f8b0e7e83148848aa9-1.14.0.xpi"
+        },
+        {
+          "version": "1.15.0",
+          "update_link": "https://nlhma.github.io/domain-container-manager-releases/12f8b0e7e83148848aa9-1.15.0.xpi"
         }
       ]
     }
